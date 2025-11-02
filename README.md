@@ -2,8 +2,17 @@
 
 A modern Figma travel app that helps users discover destinations, plan trips, and explore cultures easily. Features clean UI, detailed wireframes, and interactive prototypes for Android/iOS focused on smart itineraries and seamless travel.
 
-💪 FitLife – Your Fitness, Your Way.
-A Figma fitness app promoting wellness with workouts, meal tracking, and progress insights. Designed with clean UI, smart analytics, and motivational flow for users of all fitness levels.
+💪 Task management – Your Work, Your Way.
+Task management tools apps typically include features like:
+
+- Task creation and assignment
+- Project organization
+- Due dates and reminders
+- Progress tracking
+- Collaboration tools
+- Priority setting
+
+Some popular task management apps include Trello, Asana, and Todoist. Would you like more info on any of these?
 
 🎵 MusicStream – Smart Streaming. Infinite Sound.
 A sleek Figma music app with personalized playlists, mood-based recommendations, and immersive UI. Includes high-fidelity mockups and interactive prototypes for a smooth streaming experience.
@@ -35,7 +44,7 @@ Features minimalist UI, smooth interactions, and vibrant travel imagery — focu
 
 ---
 
-### 💪 task management – Your work, Your Way.
+### 💪 Task management – Your work, Your Way.
 
 >Task management tools apps typically include features like:
 
